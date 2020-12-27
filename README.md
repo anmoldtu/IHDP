@@ -10,7 +10,6 @@ Start the script `sample.py`. All the dataset file names should be specified in 
 
 ## Datasets
 Emperically collected Android Dataset Will be released in further versions.
-The rest of the datasets were taken from the PROMISE repository.
 
 ## Authors
 
