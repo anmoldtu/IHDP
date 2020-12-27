@@ -20,4 +20,5 @@ Emperically collected Android Dataset Will be released in further versions.
 + Abhinav Kumar Singh
   + Department of Computer Science, Delhi Technological University, Delhi, India
   
- 
+ ## License
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/anmoldtu/IHDP/blob/main/LICENSE) file to know more.
