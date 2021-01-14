@@ -15,9 +15,9 @@ Emperically collected Android Dataset Will be released in further versions.
 
 + Ruchika Malhotra
   + Department of Computer Science, Delhi Technological University, Delhi, India
-+ Anmol Budhiraja
++ [Anmol Budhiraja](https://github.com/anmoldtu)
   + Department of Computer Science, Delhi Technological University, Delhi, India
-+ Abhinav Kumar Singh
++ [Abhinav Kumar Singh](https://github.com/Abhinav2604)
   + Department of Computer Science, Delhi Technological University, Delhi, India
   
  ## License
